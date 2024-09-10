@@ -67,7 +67,7 @@ python main.py
 
 ## Acknowledgments
 
-- This project uses historical stock price data from [Data Source].
+- This project uses historical stock price data.
 - Special thanks to the open-source community for providing valuable libraries and resources.
 
 Feel free to explore the code, modify it, and contribute to the project. Happy predicting!
